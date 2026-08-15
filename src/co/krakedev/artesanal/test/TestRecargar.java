@@ -8,7 +8,7 @@ public class TestRecargar {
 
 		boolean resultado;
 
-		Maquina rubia = new Maquina("Pilsener", "Cerveza fria", 0.02, 8000);
+		Maquina rubia = new Maquina("Pilsener", "Cerveza fria", 0.02, 8000, "001");
 
 		System.out.println("===Estado Inicial===");
 
